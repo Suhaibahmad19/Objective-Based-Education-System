@@ -1,0 +1,55 @@
+18
+PLO11
+Design and develop software applications using object-oriented programming principles.
+P01
+PLO12
+Analyze the performance of algorithms and data structures, and select the most appropriate ones for a given problem.
+P01
+PLO21
+Apply software development life cycle (SDLC) methodologies to deliver high-quality software that meets user requirements.
+P02
+PLO22
+Utilize testing frameworks and techniques to ensure the reliability and maintainability of software systems.
+P02
+PLO31
+Develop machine learning models to solve real-world prediction or classification problems.
+P03
+PLO32
+Communicate data insights effectively through visual storytelling techniques like dashboards and interactive reports.
+P03
+PLO41
+Design and analyze electrical circuits for specific applications, considering factors like power efficiency and safety.
+P04
+PLO42
+Apply knowledge of electronics to design and implement digital and analog systems.
+P04
+PLO51
+Develop and implement strategic marketing plans to achieve targeted customer segments and market share growth.
+P05
+PLO52
+Analyze financial data to assess a company's financial health and make informed investment decisions.
+P05
+PLO61
+Prepare financial statements in accordance with International Financial Reporting Standards (IFRS) or Generally Accepted Accounting Principles (GAAP).
+P06
+PLO62
+Apply financial modeling and valuation techniques to assess the value of companies and investment opportunities.
+P06
+PLO71
+Conduct independent research in a specialized area of computer science, contributing to new knowledge or advancements.
+P07
+PLO72
+Design and implement scalable distributed systems for high-performance computing or large-scale data processing.
+P07
+PLO81
+Develop and implement big data processing pipelines for handling and analyzing massive datasets.
+P08
+PLO82
+Apply ethical considerations and data privacy regulations throughout the data science life cycle.
+P08
+PLO92
+Learn advance concepts of Operating Systems, ALgorithms & Databases.
+P08
+PL99
+LEARN SKILLS THAT HELP IN AFTERLIFE
+P08

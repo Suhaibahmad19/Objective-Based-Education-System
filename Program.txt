@@ -1,0 +1,17 @@
+8
+P01
+Bachelor of Computer Science
+P02
+Bachelor of Software Eng.
+P03
+Bachelor of Data Science
+P04
+Bachelor of Electical Eng.
+P05
+Bachelor of Business Admin.
+P06
+Bachelor of Acc. & Finance
+P07
+Masters of Computer Science
+P08
+Masters of Data Science

@@ -1,0 +1,13 @@
+3
+T201
+EV01
+Explain the difference between a variable and a data type in programming. Provide an example of each.
+CLO11
+T202
+EV02
+You are designing a class Animal with attributes like name and sound. Create a subclass Dog that inherits from Animal and adds a specific attribute breed. How does inheritance promote code reusability in this scenario?
+CLO23
+T204
+EV03
+Differentiate between a switch and a router. In which network topology (bus, star, mesh) would a switch be most beneficial? Explain your answer.
+CLO44
